@@ -1,0 +1,4 @@
+flask
+MetaTrader5
+pandas
+sqlalchemy
